@@ -1,1 +1,6 @@
-# Mulesoft-sqlite3_with_python-Movies_database
+# Database with sqlite
+
+  >>Creating a new SQLite database,
+  >>Creating a new table (Movies),
+  >>Inserting data into Movies table,
+  >>Querying data from Movies table,
